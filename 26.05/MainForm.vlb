@@ -1,17 +1,8 @@
-﻿[mMenu]
-Coordinates=126,173,57,36
-
-[BWeather]
+﻿[BWeather]
 Coordinates=10,78,71,58
-
-[Тема]
-Coordinates=0,137,46,36
 
 [ColorDialog]
 Coordinates=278,56,82,36
-
-[Image1]
-Coordinates=91,78,57,58
 
 [BNews]
 Coordinates=127,10,55,58
@@ -23,26 +14,42 @@ Coordinates=64,10,53,58
 Coordinates=192,10,59,58
 
 []
-Coordinates=289,1,64,58
+Coordinates=510,1,91,36
 Visible=True
 
 [ERequest]
 Coordinates=0,0,71,58
 
-[PDialogue]
-Coordinates=200,180,74,58
-Visible=True
+[ThemeLabel]
+Coordinates=0,0,86,58
+
+[Timer1]
+Coordinates=161,174,55,36
+
+[OpenSettingsButton]
+Coordinates=342,78,130,58
+
+[CloseSettingsButton]
+Coordinates=173,78,131,58
 
 [MDialogue]
-Coordinates=289,111,76,58
-Visible=True
+Coordinates=600,60,76,58
 
-[darkTheme]
-Coordinates=185,155,60,36
+[Label2]
+Coordinates=220,155,53,58
 
-[brightTheme]
-Coordinates=57,173,65,36
+[AddDialogue]
+Coordinates=342,1,88,58
 
-[customTheme]
-Coordinates=278,1,108,36
+[OffLight]
+Coordinates=86,77,60,58
+
+[SettingsPanel]
+Coordinates=342,155,94,58
+
+[Label3]
+Coordinates=102,174,53,58
+
+[SpeakerButton]
+Coordinates=43,174,56,58
 
